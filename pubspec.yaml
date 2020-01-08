@@ -1,8 +1,9 @@
 name: flutterx
-description: Flutter &amp; Dart extenction methods making flutter even more easier and fun
+description: Flutter &amp; Dart extenction methods
 version: 0.0.1
-author:
-homepage:
+author: Laxman Bhattarai <erluxman@gmail.com>
+homepage: https://github.com/erluxman/flutterX
+issue_tracker: https://github.com/erluxman/flutterX
 
 environment:
   sdk: ">2.6.0 <3.0.0"
